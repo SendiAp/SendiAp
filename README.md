@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
-##  🎶 **Currently Playing**
-[![Spotify](https://novatorem-pokurt.vercel.app/api/spotify)](https://open.spotify.com/user/21dlpp4ul43o6wj7x7pdmzzeq)
-
 ### Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=SendiAp&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
