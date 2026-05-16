@@ -36,17 +36,17 @@ Motto:
 
 <div align="center">📊 GITHUB STATS 📊
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" /></div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SendiAp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SendiAp&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendiAp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" /></div>
 ---
 
 <div align="center">🏆 GITHUB TROPHIES 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" /></div>
+<img src="https://github-profile-trophy.vercel.app/?username=SendiAp&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" /></div>
 ---
 
 <div align="center">⚡ CONTRIBUTION GRAPH ⚡
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="100%"/></div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SendiAp&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="100%"/></div>
 ---
 
 <div align="center">🚀 FEATURED PROJECTS 🚀
@@ -79,7 +79,7 @@ Sistem otomatis deploy VPS menggunakan API dan automation tools.
 
 <a href="https://t.me/pikyus2">
 <img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=black" />
-</a><a href="https://github.com/YOUR_USERNAME">
+</a><a href="https://github.com/SendiAp">
 <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
 </a></div>
 ---
