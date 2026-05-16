@@ -1,110 +1,87 @@
-👋 Halo, Saya Sendi Adiningtias Priyanto
+<div align="center">⚡ SENDI ADININGTIAS PRIYANTO ⚡</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Developer+Telegram+Bot;Python+Enthusiast;Automation+%26+API+Explorer;Open+Source+Learner" alt="Typing SVG" />
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Telegram+Bot+Developer;Python+%7C+Automation+%7C+Backend;Building+Systems+That+Run+Automatically" /></div><div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+</div><div align="center">  
+
+</div>
+---
+
+<div align="center">🌌 ABOUT ME 🌌
+
+</div><img align="right" alt="Coding" width="320" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">Name: Sendi Adiningtias Priyanto
+Focus:
+  - Telegram Bot Automation
+  - Backend Development
+  - VPS Automation
+  - API Integration
+  - MongoDB Database
+
+Currently Learning:
+  - Cloud Infrastructure
+  - Advanced Automation
+  - Payment Gateway System
+  - DevOps
+
+Motto:
+  "Automate Everything"
+
+<br clear="right"/>
+---
+
+<div align="center">⚒️ TECH STACK ⚒️
+
+<img src="https://skillicons.dev/icons?i=python,mongodb,nodejs,linux,bash,docker,git,github,vscode,redis&perline=5" /></div>
+---
+
+<div align="center">📊 GITHUB STATS 📊
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" /></div>
+---
+
+<div align="center">🏆 GITHUB TROPHIES 🏆
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" /></div>
+---
+
+<div align="center">⚡ CONTRIBUTION GRAPH ⚡
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="100%"/></div>
+---
+
+<div align="center">🚀 FEATURED PROJECTS 🚀
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 Telegram Bot Store</h3>
+<div align="center">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100%"/>
+<p>
+Advanced Telegram Bot untuk otomatisasi order, payment, dan management service.
 </p>
----
-
-🚀 Tentang Saya
-
-💻 Fokus pada pengembangan:
-
-Telegram Bot Automation
-
-Backend Python
-
-API Integration
-
-VPS & Server Automation
-
-MongoDB Database
-
-
-📚 Saat ini sedang belajar:
-
-Scalability Bot Telegram
-
-Cloud Infrastructure
-
-Payment Gateway Integration
-
-DevOps Dasar
-
-
-⚡ Fun Fact:
-
-> Saya suka membuat sistem otomatis agar semuanya berjalan tanpa manual 😎
-
-
-
-
----
-
-🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mongodb,linux,git,github,vscode,bash,docker,nodejs" />
+</div>
+</td>
+<td width="50%">
+<h3 align="center">☁️ VPS Automation</h3>
+<div align="center">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%"/>
+<p>
+Sistem otomatis deploy VPS menggunakan API dan automation tools.
 </p>
+</div>
+</td>
+</tr>
+</table></div>
 ---
 
-📊 GitHub Stats
+<div align="center">🌐 CONNECT WITH ME 🌐
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<a href="https://t.me/pikyus2">
+<img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=black" />
+</a><a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
+</a></div>
 ---
 
-🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
-</p>
----
-
-📌 Featured Projects
-
-🤖 Telegram Bot Store
-
-Bot Telegram otomatis untuk order, pembayaran, dan manajemen layanan digital.
-
-☁️ VPS Automation System
-
-Sistem otomatisasi deploy & pengelolaan VPS menggunakan API provider.
-
-💳 Payment Integration
-
-Integrasi payment gateway dan validasi pembayaran otomatis.
-
-
----
-
-🌐 Connect With Me
-
-<p align="left">
-  <a href="https://t.me/USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
----
-
-🎵 Quote
-
-> “Code it once, automate it forever.”
-
-
-
-
----
-
-<p align="center">
-  Thanks for visiting my profile ⭐
-</p>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F7FF,100:0077FF&section=footer" width="100%"/></div>
